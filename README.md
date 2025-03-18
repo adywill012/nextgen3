@@ -12,3 +12,6 @@ while true; do echo "Preventing idle timeout"; sleep 40; done
 
 { /workspaces/nextgen3/dockerr/start.sh } < start
 { /workspaces/nextgen3/dockerr/stop.sh } < stop
+
+/gamerule playersSleepingPercentage
+147.185.221.26:57939 server ip
