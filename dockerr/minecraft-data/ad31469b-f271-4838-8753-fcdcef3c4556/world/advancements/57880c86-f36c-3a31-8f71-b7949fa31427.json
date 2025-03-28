@@ -7,8 +7,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-28 08:07:31 +0000",
       "minecraft:flower_forest": "2025-03-16 12:21:07 +0000",
       "minecraft:snowy_slopes": "2025-03-16 12:18:35 +0000",
+      "minecraft:beach": "2025-03-28 09:01:16 +0000",
       "minecraft:forest": "2025-03-16 13:31:14 +0000",
       "minecraft:taiga": "2025-03-16 13:31:49 +0000",
       "minecraft:deep_ocean": "2025-03-24 11:55:15 +0000",
@@ -23,6 +25,7 @@
       "minecraft:sunflower_plains": "2025-03-16 11:48:29 +0000",
       "minecraft:meadow": "2025-03-16 12:21:32 +0000",
       "minecraft:birch_forest": "2025-03-25 12:38:20 +0000",
+      "minecraft:windswept_hills": "2025-03-28 09:23:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-25 11:21:27 +0000",
       "minecraft:plains": "2025-03-16 13:04:43 +0000",
       "minecraft:warm_ocean": "2025-03-24 11:53:10 +0000",
@@ -376,6 +379,7 @@
     "criteria": {
       "mutton": "2025-03-16 12:59:39 +0000",
       "bread": "2025-03-16 11:57:40 +0000",
+      "cooked_chicken": "2025-03-28 09:21:55 +0000",
       "cooked_beef": "2025-03-18 09:40:44 +0000",
       "baked_potato": "2025-03-17 11:16:36 +0000",
       "golden_carrot": "2025-03-18 08:53:38 +0000",
@@ -724,9 +728,11 @@
       "minecraft:pillager": "2025-03-16 12:19:09 +0000",
       "minecraft:blaze": "2025-03-18 09:55:45 +0000",
       "minecraft:skeleton": "2025-03-16 13:10:37 +0000",
+      "minecraft:phantom": "2025-03-28 07:25:33 +0000",
       "minecraft:ravager": "2025-03-16 16:37:36 +0000",
       "minecraft:husk": "2025-03-25 11:22:08 +0000",
       "minecraft:bogged": "2025-03-25 11:45:26 +0000",
+      "minecraft:ender_dragon": "2025-03-28 09:16:47 +0000",
       "minecraft:hoglin": "2025-03-18 10:05:56 +0000",
       "minecraft:cave_spider": "2025-03-25 11:57:37 +0000",
       "minecraft:piglin": "2025-03-18 09:54:35 +0000",
@@ -734,10 +740,13 @@
       "minecraft:breeze": "2025-03-25 10:09:22 +0000",
       "minecraft:silverfish": "2025-03-25 10:27:06 +0000",
       "minecraft:stray": "2025-03-25 10:09:30 +0000",
+      "minecraft:enderman": "2025-03-28 09:11:52 +0000",
       "minecraft:magma_cube": "2025-03-24 09:35:07 +0000",
       "minecraft:spider": "2025-03-16 12:23:37 +0000",
+      "minecraft:piglin_brute": "2025-03-28 08:33:58 +0000",
       "minecraft:zombie": "2025-03-16 13:08:06 +0000",
       "minecraft:creeper": "2025-03-16 13:10:50 +0000",
+      "minecraft:drowned": "2025-03-28 08:10:01 +0000",
       "minecraft:slime": "2025-03-25 10:20:50 +0000"
     },
     "done": false
@@ -2850,6 +2859,168 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-25 13:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-28 07:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-28 07:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-03-28 08:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 08:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 08:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 08:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 08:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 08:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-28 08:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-28 08:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-03-28 08:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-03-28 09:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-28 08:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-03-28 09:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-03-28 08:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-28 08:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-28 09:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-03-28 09:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-03-28 09:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-28 09:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-28 08:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-28 09:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-03-28 09:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-28 08:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-28 09:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-28 08:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-28 09:06:07 +0000"
     },
     "done": true
   },
