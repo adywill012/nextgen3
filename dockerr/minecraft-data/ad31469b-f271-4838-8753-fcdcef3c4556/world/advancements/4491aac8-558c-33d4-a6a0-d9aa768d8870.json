@@ -153,7 +153,9 @@
       "mutton": "2025-03-18 09:17:46 +0000",
       "chicken": "2025-03-16 13:04:08 +0000",
       "bread": "2025-03-16 12:18:17 +0000",
+      "golden_apple": "2025-03-31 10:30:49 +0000",
       "cooked_mutton": "2025-03-17 15:41:10 +0000",
+      "golden_carrot": "2025-03-31 10:41:49 +0000",
       "carrot": "2025-03-28 07:09:27 +0000"
     },
     "done": false
@@ -393,6 +395,8 @@
       "minecraft:zombified_piglin": "2025-03-28 08:20:03 +0000",
       "minecraft:spider": "2025-03-16 17:21:07 +0000",
       "minecraft:zombie": "2025-03-16 13:11:17 +0000",
+      "minecraft:zombie_villager": "2025-03-31 10:48:49 +0000",
+      "minecraft:ravager": "2025-03-31 10:23:47 +0000",
       "minecraft:hoglin": "2025-03-28 08:33:21 +0000"
     },
     "done": false
@@ -1817,6 +1821,24 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-28 09:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-31 10:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-31 10:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-31 10:25:38 +0000"
     },
     "done": true
   },

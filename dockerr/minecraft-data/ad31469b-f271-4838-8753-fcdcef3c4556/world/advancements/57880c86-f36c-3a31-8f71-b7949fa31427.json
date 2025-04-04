@@ -2916,33 +2916,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-03-28 08:28:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-03-28 08:25:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-03-28 09:16:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-03-28 08:28:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-03-28 09:07:34 +0000"
     },
     "done": true
   },
@@ -2952,15 +2928,75 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-28 08:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-03-28 08:28:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-28 08:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-28 08:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-28 08:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-28 08:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-28 09:02:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-03-28 09:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-28 09:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-28 09:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-28 09:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-03-28 09:07:34 +0000"
     },
     "done": true
   },
@@ -2976,51 +3012,15 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "in_stronghold": "2025-03-28 09:02:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-03-28 08:28:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-03-28 09:06:07 +0000"
+      "killed_dragon": "2025-03-28 09:16:47 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2025-03-28 09:32:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-03-28 08:28:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-03-28 09:05:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-03-28 08:39:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-03-28 09:06:07 +0000"
     },
     "done": true
   },
