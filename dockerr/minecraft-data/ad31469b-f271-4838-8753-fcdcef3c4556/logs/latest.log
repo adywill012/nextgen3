@@ -1,320 +1,175 @@
-[09:27:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[09:27:41] [ServerMain/INFO]: Loaded 1290 recipes
-[09:27:41] [ServerMain/INFO]: Loaded 1399 advancements
-[09:27:42] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[09:27:42] [Server thread/INFO]: Loading properties
-[09:27:42] [Server thread/INFO]: Default game type: SURVIVAL
-[09:27:42] [Server thread/INFO]: Generating keypair
-[09:27:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:27:42] [Server thread/INFO]: Using epoll channel type
-[09:27:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:27:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:27:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:27:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:27:42] [Server thread/INFO]: Preparing level "world"
-[09:27:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:27:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:27:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:27:51] [Server thread/INFO]: Time elapsed: 787 ms
-[09:27:51] [Server thread/INFO]: Done (9.518s)! For help, type "help"
-[09:28:10] [Server thread/INFO]: theHULK[/172.17.0.1:57332] logged in with entity id 13 at (19726.531677031297, 118.0, 10996.477487869912)
-[09:28:10] [Server thread/INFO]: theHULK joined the game
-[09:29:00] [Server thread/INFO]: HabuGandu[/172.17.0.1:50638] logged in with entity id 528 at (19725.70863111326, 118.0, 11000.671799642321)
-[09:29:00] [Server thread/INFO]: HabuGandu joined the game
-[09:29:09] [Server thread/INFO]: Drakii27[/172.17.0.1:50648] logged in with entity id 594 at (19739.69999998808, 117.5, 10948.504437675601)
-[09:29:09] [Server thread/INFO]: Drakii27 joined the game
-[09:29:13] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[09:29:45] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[09:29:59] [Server thread/WARN]: HabuGandu moved too quickly! -7.623469203601417,12.59141688998011,-0.19204908204483218
-[09:30:04] [Server thread/INFO]: [Not Secure] <theHULK> have normal mode che to dhyan rakhjo
-[09:30:09] [Server thread/INFO]: [Not Secure] <HabuGandu> ok
-[09:30:14] [Server thread/INFO]: [Not Secure] <HabuGandu> jiya ne kahe
-[09:33:14] [Server thread/WARN]: HabuGandu moved too quickly! 0.0,-11.174211293246259,0.0
-[09:33:33] [Server thread/INFO]: [Not Secure] <HabuGandu> give me some ender pearls
-[09:33:58] [Server thread/INFO]: [Not Secure] <theHULK> find spider eye
-[09:34:15] [Server thread/WARN]: HabuGandu moved too quickly! 7.121674854064622,9.23491590244069,-0.7110767340109305
-[09:34:30] [Server thread/INFO]: [Not Secure] <theHULK> 1 more
-[09:34:43] [Server thread/INFO]: [Not Secure] <HabuGandu> i had only one
-[09:36:13] [Server thread/INFO]: [Not Secure] <theHULK> jiya spider eye hoy to ap ne
-[09:38:26] [Server thread/INFO]: [Not Secure] <theHULK> i am mating special daru
-[09:38:38] [Server thread/INFO]: [Not Secure] <theHULK> *making
-[09:38:55] [Server thread/INFO]: [Not Secure] <HabuGandu> give me some ender pearls
-[09:39:18] [Server thread/INFO]: [theHULK: Gave 64 [Ender Pearl] to HabuGandu]
-[09:39:20] [Server thread/INFO]: [Not Secure] <HabuGandu> do rainy weather
-[09:40:48] [Server thread/INFO]: [Not Secure] <theHULK> gun power plz
-[09:42:19] [Server thread/INFO]: [Not Secure] <theHULK> tme loko kya cho????
-[09:42:35] [Server thread/INFO]: [Not Secure] <HabuGandu> mara ghare
-[09:42:46] [Server thread/INFO]: [Not Secure] <theHULK> ok
-[09:45:18] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan give me fishing
-[09:45:29] [Server thread/INFO]: [theHULK: Gave 5 [Fishing Rod] to HabuGandu]
-[09:46:54] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan give me 4 snow layers
-[09:47:04] [Server thread/INFO]: [Not Secure] <HabuGandu> jiya ghar bagade che mary
-[09:47:22] [Server thread/INFO]: [theHULK: Gave 5 [Powder Snow Bucket] to HabuGandu]
-[09:48:17] [Server thread/INFO]: [Not Secure] <HabuGandu> aryam jiya ne tari jode tp kar
-[09:48:36] [Server thread/INFO]: [Not Secure] <HabuGandu> nahito hu ane kill karidais
-[09:49:41] [Server thread/INFO]: [theHULK: Teleported theHULK to HabuGandu]
-[09:50:12] [Server thread/INFO]: [Not Secure] <theHULK> jiya bar ay to
-[09:50:27] [Server thread/INFO]: [Not Secure] <HabuGandu> maru drower bagadi didhu
-[09:50:40] [Server thread/INFO]: [Not Secure] <HabuGandu> jiya che
-[09:50:54] [Server thread/INFO]: [Not Secure] <HabuGandu> dont use water bucket in my house
-[09:51:24] [Server thread/INFO]: [theHULK: Teleported 3 entities to theHULK]
-[09:51:40] [Server thread/INFO]: [Not Secure] <theHULK> ek main ubha ro to mane ko ketlo damage thy che
-[09:51:53] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[09:53:36] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[09:53:40] [Server thread/INFO]: [theHULK: Set the time to 1000]
-[09:53:48] [Server thread/INFO]: [Not Secure] <theHULK> stay steady
-[09:53:56] [Server thread/INFO]: [Not Secure] <theHULK> 1 have 1 thing to check
-[09:54:02] [Server thread/INFO]: [Not Secure] <theHULK> look
-[09:54:23] [Server thread/INFO]: [Not Secure] <HabuGandu> show me
-[09:54:30] [Server thread/INFO]: [Not Secure] <theHULK> heril ke je ketlo damage thy
-[09:54:43] [Server thread/INFO]: [Not Secure] <HabuGandu> half hert
-[09:55:03] [Server thread/INFO]: Drakii27 was burned to a crisp while fighting HabuGandu
-[09:55:12] [Server thread/INFO]: [Not Secure] <HabuGandu> tp kar
-[09:55:18] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
-[09:55:35] [Server thread/INFO]: [Not Secure] <HabuGandu> show me aryan what you have
-[09:55:48] [Server thread/INFO]: [Not Secure] <theHULK> aa hath ma pakad pachi ,ar
-[09:55:52] [Server thread/INFO]: [Not Secure] <theHULK> mar
-[09:56:06] [Server thread/INFO]: [Not Secure] <theHULK> left hand ma
-[09:56:28] [Server thread/INFO]: [Not Secure] <HabuGandu> ketlo
-[09:56:38] [Server thread/INFO]: [Not Secure] <theHULK> hald ;-;
-[09:56:41] [Server thread/INFO]: [Not Secure] <theHULK> half
-[09:56:47] [Server thread/INFO]: [Not Secure] <HabuGandu> i hav desi daru
-[09:56:54] [Server thread/INFO]: [Not Secure] <theHULK> jiya taru tridnt
-[09:57:50] [Server thread/INFO]: [Not Secure] <HabuGandu> eat pufferfish and drink daru
-[09:57:55] [Server thread/INFO]: [Not Secure] <theHULK> jiya eat
-[09:58:06] [Server thread/INFO]: [Not Secure] <HabuGandu> hit me
-[09:58:34] [Server thread/INFO]: [Not Secure] <theHULK> wow daru
-[09:58:42] [Server thread/INFO]: [Not Secure] <HabuGandu> very bytiful
-[09:59:44] [Server thread/INFO]: Drakii27 was burned to a crisp while fighting theHULK
-[10:00:06] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
-[10:00:07] [Server thread/INFO]: [Not Secure] <HabuGandu> tp kar
-[10:00:13] [Server thread/INFO]: [Not Secure] <theHULK> lets vidher
-[10:00:47] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan akhu armor utar
-[10:01:44] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan akhu armor utar
-[10:01:51] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:02:18] [Server thread/INFO]: [Not Secure] <HabuGandu> tp us
-[10:02:25] [Server thread/INFO]: [Not Secure] <HabuGandu> to you
-[10:02:39] [Server thread/INFO]: [theHULK: Teleported theHULK to 4649.500000, 89.000000, 210.500000]
-[10:03:18] [Server thread/INFO]: theHULK has made the advancement [Spooky Scary Skeleton]
-[10:03:31] [Server thread/INFO]: [theHULK: Teleported theHULK to HabuGandu]
-[10:03:40] [Server thread/INFO]: [Not Secure] <theHULK> come
-[10:03:47] [Server thread/INFO]: [Not Secure] <HabuGandu> wher
-[10:03:53] [Server thread/INFO]: [theHULK: Teleported 3 entities to theHULK]
-[10:03:56] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:04:00] [Server thread/INFO]: [Not Secure] <theHULK> ready thai jao
-[10:04:04] [Server thread/INFO]: [Not Secure] <theHULK> wither mate
-[10:04:05] [Server thread/INFO]: [Not Secure] <HabuGandu> give me skull
-[10:04:14] [Server thread/INFO]: HabuGandu has made the advancement [Spooky Scary Skeleton]
-[10:04:35] [Server thread/INFO]: [Not Secure] <HabuGandu> i the boss here
-[10:05:02] [Server thread/INFO]: [Not Secure] <theHULK> jiya heril ne jo
-[10:05:11] [Server thread/INFO]: theHULK lost connection: Disconnected
-[10:05:11] [Server thread/INFO]: theHULK left the game
-[10:05:44] [Server thread/INFO]: theHULK[/172.17.0.1:50368] logged in with entity id 7894 at (19704.10731391273, 118.0, 10952.878196885373)
-[10:05:45] [Server thread/INFO]: theHULK joined the game
-[10:06:11] [Server thread/INFO]: [theHULK: Gave 12 [Soul Sand] to theHULK]
-[10:06:21] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan jiya nr skull joiye
-[10:06:30] [Server thread/INFO]: [Not Secure] <theHULK> take your elytra and follow me
-[10:06:50] [Server thread/INFO]: [Not Secure] <theHULK> come
-[10:06:57] [Server thread/INFO]: [Not Secure] <theHULK> take elytra and follow me
-[10:07:29] [Server thread/INFO]: [Not Secure] <theHULK> wow jiya so much food
-[10:07:41] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan jiya kahe che mukide
-[10:07:59] [Server thread/INFO]: [Not Secure] <theHULK> chalo
-[10:08:00] [Server thread/INFO]: [Not Secure] <HabuGandu> give me five enchanted golden apple
-[10:08:13] [Server thread/INFO]: [theHULK: Gave 6 [Golden Apple] to 3]
-[10:08:23] [Server thread/INFO]: [Not Secure] <theHULK> jiya come
-[10:08:28] [Server thread/INFO]: [Not Secure] <HabuGandu> enchnated
-[10:08:35] [Server thread/INFO]: [Not Secure] <HabuGandu> enchnated
-[10:08:36] [Server thread/INFO]: [Not Secure] <HabuGandu> enchnated
-[10:08:36] [Server thread/INFO]: [Not Secure] <HabuGandu> enchnated
-[10:08:37] [Server thread/INFO]: [Not Secure] <HabuGandu> enchnated
-[10:08:41] [Server thread/INFO]: [Not Secure] <theHULK> no
-[10:08:46] [Server thread/INFO]: [Not Secure] <theHULK> i am poor
-[10:08:46] [Server thread/INFO]: [Not Secure] <Drakii27> chor gold apple carrot muko
-[10:08:48] [Server thread/INFO]: [Not Secure] <HabuGandu> trail chamber thi malya hata
-[10:09:04] [Server thread/INFO]: [Not Secure] <HabuGandu> void ma gaya
-[10:09:07] [Server thread/INFO]: [theHULK: Gave 6 [Enchanted Golden Apple] to HabuGandu]
-[10:09:15] [Server thread/INFO]: [Not Secure] <HabuGandu> themku
-[10:09:24] [Server thread/INFO]: [Not Secure] <theHULK> come
-[10:10:01] [Server thread/INFO]: [Not Secure] <theHULK> kya gyo??
-[10:10:32] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan ex copy karine aap
-[10:10:47] [Server thread/INFO]: [Not Secure] <theHULK> kya che??
-[10:10:51] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:10:56] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:11:01] [Server thread/INFO]: [Not Secure] <HabuGandu> chalo
-[10:11:11] [Server thread/INFO]: [Not Secure] <theHULK> straight here
-[10:11:46] [Server thread/INFO]: [Not Secure] <HabuGandu> jiya ne tp kar
-[10:12:05] [Server thread/INFO]: [Not Secure] <theHULK> set respawn here
-[10:12:38] [Server thread/WARN]: HabuGandu moved too quickly! 0.02513035155061516,11.117836046955148,0.0
-[10:12:42] [Server thread/WARN]: HabuGandu moved too quickly! 0.0,-15.422425834668616,0.0
-[10:12:55] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
-[10:12:58] [Server thread/INFO]: [Not Secure] <HabuGandu> arya give jiya eluta rocket
-[10:13:13] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:13:16] [Server thread/INFO]: [Not Secure] <HabuGandu> arya give jiya elytra rocket
-[10:13:25] [Server thread/INFO]: [Not Secure] <theHULK> le
-[10:13:27] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:13:38] [Server thread/INFO]: [Not Secure] <theHULK> ahi
-[10:13:55] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:14:04] [Server thread/INFO]: [Not Secure] <HabuGandu> i m at y 2345
-[10:14:16] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:14:25] [Server thread/WARN]: HabuGandu moved too quickly! 0.0,14.750018591664002,0.0
-[10:14:31] [Server thread/INFO]: [Not Secure] <theHULK> heril le
-[10:14:48] [Server thread/INFO]: [Not Secure] <theHULK> pan start na krto hu tyre etle krje
-[10:15:18] [Server thread/INFO]: [theHULK: Set the time to 1000]
-[10:15:33] [Server thread/INFO]: [theHULK: Applied effect Night Vision to 3 targets]
-[10:15:42] [Server thread/INFO]: [Not Secure] <HabuGandu> karu
-[10:15:44] [Server thread/INFO]: [Not Secure] <theHULK> jiya respawn set kr
-[10:16:04] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:16:08] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:16:13] [Server thread/INFO]: [Not Secure] <theHULK> kryu???
-[10:16:22] [Server thread/INFO]: [Not Secure] <HabuGandu> nai thatu
-[10:16:31] [Server thread/INFO]: [Not Secure] <HabuGandu> bed upar kar
-[10:16:58] [Server thread/INFO]: [Not Secure] <theHULK> kryu??
-[10:17:28] [Server thread/INFO]: [Not Secure] <theHULK> jiya le. heril jiya ne head aap pelu vadu
-[10:17:42] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:17:47] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:18:00] [Server thread/INFO]: [Not Secure] <theHULK> jiya come
-[10:18:33] [Server thread/INFO]: [Not Secure] <HabuGandu> wait me going bathrroom
-[10:23:51] [Server thread/INFO]: Drakii27 has made the advancement [Spooky Scary Skeleton]
-[10:28:04] [Server thread/INFO]: [Not Secure] <theHULK> start
-[10:28:33] [Server thread/INFO]: HabuGandu went off with a bang due to a firework fired from [the great sword] by HabuGandu
-[10:29:32] [Server thread/INFO]: [theHULK: Teleported theHULK to HabuGandu]
-[10:29:43] [Server thread/INFO]: [Not Secure] <theHULK> jiya ai ja
-[10:30:01] [Server thread/INFO]: [Not Secure] <theHULK> jiya
-[10:30:08] [Server thread/INFO]: [Not Secure] <HabuGandu> no let me set my inventory
-[10:30:10] [Server thread/INFO]: [Not Secure] <theHULK> hal nai
-[10:30:18] [Server thread/INFO]: [Not Secure] <theHULK> ready kau tyre
-[10:30:30] [Server thread/INFO]: [Not Secure] <theHULK> badha ready???
-[10:31:18] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan juya e maryu shulke lusdhu
-[10:32:41] [Server thread/INFO]: [Not Secure] <theHULK> e yar start kro
-[10:35:02] [Server thread/INFO]: [Not Secure] <theHULK> start
-[10:35:13] [Server thread/INFO]: HabuGandu has made the advancement [Withering Heights]
-[10:35:13] [Server thread/INFO]: theHULK has made the advancement [Withering Heights]
-[10:35:13] [Server thread/INFO]: Drakii27 has made the advancement [Withering Heights]
-[10:36:28] [Server thread/INFO]: theHULK withered away
-[10:37:05] [Server thread/INFO]: [Not Secure] <HabuGandu> koni jode aayo star
-[10:37:21] [Server thread/INFO]: [Not Secure] <HabuGandu> koni jode aayo star
-[10:37:40] [Server thread/INFO]: [Not Secure] <theHULK> jiya jode
-[10:37:43] [Server thread/INFO]: [Not Secure] <HabuGandu> next
-[10:38:59] [Server thread/INFO]: [theHULK: Applied effect Night Vision to 3 targets]
-[10:39:31] [Server thread/INFO]: [Not Secure] <HabuGandu> give me exp bottle
-[10:39:38] [Server thread/INFO]: [Not Secure] <HabuGandu> repair my armor
-[10:39:42] [Server thread/INFO]: [Not Secure] <HabuGandu> repair my armor
-[10:39:42] [Server thread/INFO]: [Not Secure] <HabuGandu> repair my armor
-[10:39:43] [Server thread/INFO]: [Not Secure] <HabuGandu> repair my armor
-[10:40:00] [Server thread/INFO]: [theHULK: Gave 1200 [Bottle o' Enchanting] to theHULK]
-[10:41:01] [Server thread/INFO]: [Not Secure] <HabuGandu> ok
-[10:41:23] [Server thread/INFO]: [Not Secure] <HabuGandu> 2 withers
-[10:41:56] [Server thread/INFO]: [Not Secure] <HabuGandu> make rainy wether
-[10:41:59] [Server thread/INFO]: [Not Secure] <HabuGandu> make rainy wether
-[10:42:00] [Server thread/INFO]: [Not Secure] <HabuGandu> make rainy wether
-[10:42:01] [Server thread/INFO]: [Not Secure] <HabuGandu> make rainy wether
-[10:44:20] [Server thread/INFO]: Drakii27 was shot by a skull from Wither
-[10:45:53] [Server thread/INFO]: [Not Secure] <HabuGandu> half heart
-[10:46:23] [Server thread/INFO]: [Not Secure] <HabuGandu> i m the onw who did not died
-[10:47:22] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan ahi aaye
-[10:47:50] [Server thread/INFO]: [Not Secure] <HabuGandu> give me wind charge
-[10:48:10] [Server thread/INFO]: [theHULK: Gave 64 [Wind Charge] to HabuGandu]
-[10:48:18] [Server thread/INFO]: [Not Secure] <HabuGandu> give me wind charge
-[10:48:19] [Server thread/INFO]: [Not Secure] <HabuGandu> give me wind charge
-[10:48:22] [Server thread/INFO]: [Not Secure] <theHULK> apya
-[10:48:38] [Server thread/INFO]: [Not Secure] <HabuGandu> one more
-[10:48:45] [Server thread/INFO]: [theHULK: Gave 64 [Wind Charge] to HabuGandu]
-[10:48:50] [Server thread/INFO]: [Not Secure] <HabuGandu> come here
-[10:49:06] [Server thread/INFO]: [Not Secure] <HabuGandu> come here
-[10:49:07] [Server thread/INFO]: [Not Secure] <HabuGandu> come here
-[10:49:08] [Server thread/INFO]: [Not Secure] <HabuGandu> come here
-[10:49:08] [Server thread/INFO]: [Not Secure] <HabuGandu> come here
-[10:49:09] [Server thread/INFO]: [Not Secure] <HabuGandu> come here
-[10:49:20] [Server thread/INFO]: [Not Secure] <HabuGandu> come in this room
-[10:49:29] [Server thread/INFO]: Drakii27 was slain by HabuGandu using [mijonaire]
-[10:49:55] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:50:12] [Server thread/INFO]: [Not Secure] <theHULK> come here
-[10:50:30] [Server thread/WARN]: HabuGandu moved too quickly! -0.0067130876777810045,10.799886068091027,0.0
-[10:51:33] [Server thread/INFO]: [Not Secure] <theHULK> ai jao pvp
-[10:51:42] [Server thread/INFO]: [Not Secure] <HabuGandu> ai jao
-[10:51:47] [Server thread/INFO]: [Not Secure] <theHULK> pota ni ender chest ma saman muki do
-[10:52:05] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:52:18] [Server thread/INFO]: [Not Secure] <Drakii27> give my helmet joota
-[10:52:37] [Server thread/INFO]: [Not Secure] <Drakii27> and water bucket bow arrow
-[10:52:44] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:53:06] [Server thread/INFO]: [Not Secure] <theHULK> heril 1sec helmet aap to
-[10:53:23] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:53:29] [Server thread/WARN]: HabuGandu moved too quickly! -0.003739971863979008,14.819384954003269,0.0
-[10:53:58] [Server thread/WARN]: HabuGandu moved too quickly! 0.0,-10.93293957575493,0.0
-[10:54:05] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:54:29] [Server thread/WARN]: HabuGandu moved too quickly! 0.06084879394256859,-11.041759515175855,-0.09919309519682429
-[10:54:40] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:54:41] [Server thread/INFO]: [Not Secure] <HabuGandu> come in this room
-[10:55:05] [Server thread/WARN]: HabuGandu moved too quickly! 0.08636220221887925,-10.815799983083423,-0.21732912478182698
-[10:55:18] [Server thread/WARN]: HabuGandu moved too quickly! 0.0,17.149997505632456,0.0
-[10:55:37] [Server thread/INFO]: [Not Secure] <Drakii27> give me shoes bow and arrow porkchop
-[10:55:48] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:56:07] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:56:46] [Server thread/WARN]: HabuGandu moved too quickly! -0.023991493340872694,-10.550768193388834,0.05566174035811855
-[10:56:53] [Server thread/INFO]: HabuGandu lost connection: Disconnected
-[10:56:53] [Server thread/INFO]: HabuGandu left the game
-[10:57:36] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[10:57:42] [Server thread/INFO]: HabuGandu[/172.17.0.1:55528] logged in with entity id 19555 at (18933.23110976687, 67.0, 11012.803546357796)
-[10:57:42] [Server thread/INFO]: HabuGandu joined the game
-[10:57:56] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
-[10:58:24] [Server thread/INFO]: [Not Secure] <HabuGandu> 6 rotten flash as reward to jiya for succesfull mlg
-[10:58:43] [Server thread/INFO]: [Not Secure] <theHULK> lets go back
-[10:58:50] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:57134): The server is full!
-[10:58:50] [Server thread/INFO]: Drakii27 (/172.17.0.1:57134) lost connection: The server is full!
-[10:58:50] [Server thread/WARN]: handleDisconnection() called twice
-[10:58:53] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:57164): The server is full!
-[10:58:53] [Server thread/INFO]: Drakii27 (/172.17.0.1:57164) lost connection: The server is full!
-[10:58:53] [Server thread/WARN]: handleDisconnection() called twice
-[10:58:53] [Server thread/INFO]: Disconnecting HabuGandu (/172.17.0.1:57166): The server is full!
-[10:58:53] [Server thread/INFO]: HabuGandu (/172.17.0.1:57166) lost connection: The server is full!
-[10:58:53] [Server thread/WARN]: handleDisconnection() called twice
-[10:58:56] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:58062): The server is full!
-[10:58:56] [Server thread/INFO]: Drakii27 (/172.17.0.1:58062) lost connection: The server is full!
-[10:58:56] [Server thread/WARN]: handleDisconnection() called twice
-[10:58:57] [Server thread/INFO]: HabuGandu lost connection: Timed out
-[10:58:57] [Server thread/INFO]: HabuGandu left the game
-[10:58:58] [Server thread/INFO]: Drakii27 lost connection: You logged in from another location
-[10:58:58] [Server thread/INFO]: Drakii27 left the game
-[10:59:03] [Server thread/INFO]: Drakii27[/172.17.0.1:58068] logged in with entity id 19746 at (18902.803644680513, 89.56707899978922, 11023.068168375388)
-[10:59:03] [Server thread/INFO]: Drakii27 joined the game
-[10:59:36] [Server thread/INFO]: [Not Secure] <Drakii27> give me porkchop
-[10:59:43] [Server thread/INFO]: HabuGandu[/172.17.0.1:40614] logged in with entity id 19814 at (18912.36126774116, 67.0, 11014.644375142147)
-[10:59:43] [Server thread/INFO]: HabuGandu joined the game
-[11:01:06] [Server thread/INFO]: theHULK lost connection: Disconnected
-[11:01:06] [Server thread/INFO]: theHULK left the game
-[11:04:32] [Server thread/INFO]: Drakii27 was doomed to fall by HabuGandu
-[11:08:52] [Server thread/WARN]: HabuGandu moved too quickly! -16.34114814527129,-6.363033985823677,-1.5192493863851269
-[11:09:28] [Server thread/INFO]: theHULK[/172.17.0.1:36636] logged in with entity id 24215 at (18902.995587827787, 67.0, 11020.937437654975)
-[11:09:28] [Server thread/INFO]: theHULK joined the game
-[11:10:20] [Server thread/INFO]: [theHULK: Teleported 3 entities to theHULK]
-[11:10:37] [Server thread/INFO]: [Not Secure] <theHULK> respawn point set kr do
-[11:10:42] [Server thread/INFO]: [theHULK: Teleported 3 entities to theHULK]
-[11:10:43] [Server thread/INFO]: [Not Secure] <HabuGandu> chlo pvp
-[11:10:52] [Server thread/INFO]: [theHULK: Made HabuGandu a server operator]
-[11:10:59] [Server thread/INFO]: theHULK lost connection: Disconnected
-[11:10:59] [Server thread/INFO]: theHULK left the game
-[11:12:15] [Server thread/INFO]: [Not Secure] <Drakii27> givevme shulker
-[11:12:35] [Server thread/INFO]: [HabuGandu: Gave 1 [White Shulker Box] to Drakii27]
-[11:12:42] [Server thread/WARN]: HabuGandu moved too quickly! 0.8055176642155857,17.121675184666486,-0.19227717795365606
-[11:13:37] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[11:13:42] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
-[11:13:49] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[11:13:52] [Server thread/INFO]: HabuGandu lost connection: Disconnected
-[11:13:52] [Server thread/INFO]: HabuGandu left the game
-[11:17:57] [Server thread/INFO]: Drakii27 lost connection: Disconnected
-[11:17:57] [Server thread/INFO]: Drakii27 left the game
-[11:26:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[11:26:24] [Server thread/INFO]: ls<--[HERE]
-[11:26:40] [Server thread/INFO]: Incorrect argument for command
-[11:26:40] [Server thread/INFO]: list players<--[HERE]
-[11:27:20] [Server thread/INFO]: Stopping the server
-[11:27:20] [Server thread/INFO]: Stopping server
-[11:27:20] [Server thread/INFO]: Saving players
-[11:27:20] [Server thread/INFO]: Saving worlds
-[11:27:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:overworld
-[11:27:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:the_nether
-[11:27:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:the_end
-[11:27:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:27:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:27:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:27:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:57:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:57:42] [ServerMain/INFO]: Loaded 1290 recipes
+[11:57:42] [ServerMain/INFO]: Loaded 1399 advancements
+[11:57:43] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[11:57:43] [Server thread/INFO]: Loading properties
+[11:57:43] [Server thread/INFO]: Default game type: SURVIVAL
+[11:57:43] [Server thread/INFO]: Generating keypair
+[11:57:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:57:44] [Server thread/INFO]: Using epoll channel type
+[11:57:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:57:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:57:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:57:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:57:44] [Server thread/INFO]: Preparing level "world"
+[11:57:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:57:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:57:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:57:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:57:57] [Server thread/INFO]: Time elapsed: 1368 ms
+[11:57:57] [Server thread/INFO]: Done (12.898s)! For help, type "help"
+[11:58:01] [Server thread/INFO]: HabuGandu[/172.17.0.1:42768] logged in with entity id 13 at (2458.300000011921, 131.8568112892684, 1390.2396213647862)
+[11:58:01] [Server thread/INFO]: HabuGandu joined the game
+[11:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[11:58:14] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
+[11:58:24] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[11:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[11:58:29] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[11:58:34] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[11:58:48] [Server thread/WARN]: HabuGandu moved too quickly! -2.977553706310573,0.0,10.399447414773022
+[11:58:51] [Server thread/WARN]: HabuGandu moved too quickly! -1.7069773009498022,0.0,10.694387378567626
+[11:58:53] [Server thread/WARN]: HabuGandu moved too quickly! -0.6215504549181787,-0.15000000596046448,10.224325437158768
+[12:00:34] [Server thread/WARN]: HabuGandu moved too quickly! 2.93520754331621,-10.238493434879572,-0.6223729217472282
+[12:06:35] [Server thread/WARN]: HabuGandu moved too quickly! -7.626511666669103,-3.3750001160889838,-6.097955712542898
+[12:06:41] [Server thread/WARN]: HabuGandu moved too quickly! 7.551465429492964,0.6522943593598427,7.065098401651994
+[12:07:19] [Server thread/WARN]: HabuGandu moved too quickly! 2.055129316602688,-0.06698738549923178,-9.940926540159126
+[12:10:56] [Server thread/WARN]: HabuGandu moved too quickly! 0.0,-11.400774164089128,0.0
+[12:11:40] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[12:11:45] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[12:11:58] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[12:16:31] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[12:22:32] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[12:22:32] [Server thread/INFO]: HabuGandu left the game
+[12:22:53] [Server thread/INFO]: HabuGandu[/172.17.0.1:55108] logged in with entity id 6013 at (19698.37958953737, 128.39507289753294, 11025.315605207035)
+[12:22:53] [Server thread/INFO]: HabuGandu joined the game
+[12:37:27] [Server thread/INFO]: Drakii27[/172.17.0.1:50912] logged in with entity id 8177 at (19733.727902675462, 117.5, 10950.451359765457)
+[12:37:27] [Server thread/INFO]: Drakii27 joined the game
+[12:42:55] [Server thread/INFO]: theHULK[/172.17.0.1:43864] logged in with entity id 8932 at (19710.594683520147, 118.0, 10948.826049431082)
+[12:42:55] [Server thread/INFO]: theHULK joined the game
+[12:43:18] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
+[12:43:25] [Server thread/INFO]: [theHULK: Removed every effect from 3 targets]
+[12:49:30] [Server thread/INFO]: Named entity cga['DinnerBone'/6060, l='ServerLevel[New World A4]', x=19672.90, y=118.00, z=11039.70] died: DinnerBone fell from a high place
+[12:49:30] [Server thread/INFO]: Named entity cga['sheep'/6064, l='ServerLevel[New World A4]', x=19673.93, y=118.00, z=11037.21] died: sheep fell from a high place
+[12:52:56] [Server thread/INFO]: Drakii27 was slain by Zombie
+[12:55:24] [Server thread/INFO]: [theHULK: Teleported theHULK to Drakii27]
+[12:56:09] [Server thread/INFO]: [HabuGandu: Set the time to 1000]
+[13:01:41] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[13:01:41] [Server thread/INFO]: HabuGandu left the game
+[13:01:41] [Server thread/WARN]: handleDisconnection() called twice
+[13:03:35] [Server thread/INFO]: [theHULK: Successfully filled 134 block(s)]
+[13:04:00] [Server thread/INFO]: [theHULK: Successfully filled 132 block(s)]
+[13:04:53] [Server thread/INFO]: HabuGandu[/172.17.0.1:41174] logged in with entity id 14187 at (19696.632449132074, 146.01019219152104, 10995.020406635691)
+[13:04:53] [Server thread/INFO]: HabuGandu joined the game
+[13:05:15] [Server thread/INFO]: [theHULK: Successfully filled 132 block(s)]
+[13:07:06] [Server thread/INFO]: Drakii27 was slain by Zombie
+[13:07:50] [Server thread/INFO]: Drakii27 was slain by Zombie
+[13:10:44] [Server thread/INFO]: [theHULK: Gave 64 [Cooked Porkchop] to Drakii27]
+[13:11:32] [Server thread/INFO]: [HabuGandu: Gave 1 [Crossbow] to HabuGandu]
+[13:11:41] [Server thread/INFO]: [HabuGandu: Applied enchantment Multishot to HabuGandu's item]
+[13:11:45] [Server thread/INFO]: [HabuGandu: Applied enchantment Unbreaking III to HabuGandu's item]
+[13:11:50] [Server thread/INFO]: [HabuGandu: Applied enchantment Mending to HabuGandu's item]
+[13:12:24] [Server thread/INFO]: [theHULK: Successfully filled 1003 block(s)]
+[13:12:32] [Server thread/WARN]: HabuGandu moved too quickly! 4.894512265382218,3.5384125777820117,-8.156700981280665
+[13:16:58] [Server thread/INFO]: theHULK lost connection: Timed out
+[13:16:58] [Server thread/INFO]: theHULK left the game
+[13:17:01] [Server thread/INFO]: Drakii27 lost connection: Timed out
+[13:17:01] [Server thread/INFO]: Drakii27 left the game
+[13:17:09] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[13:17:09] [Server thread/INFO]: HabuGandu left the game
+[13:17:17] [Server thread/INFO]: Drakii27[/172.17.0.1:50518] logged in with entity id 17056 at (19710.30000001192, 118.0, 11003.830982924723)
+[13:17:17] [Server thread/INFO]: Drakii27 joined the game
+[13:17:22] [Server thread/INFO]: HabuGandu[/172.17.0.1:57852] logged in with entity id 17474 at (19715.571549163073, 118.67496971949738, 10998.920151787534)
+[13:17:22] [Server thread/INFO]: HabuGandu joined the game
+[13:17:35] [Server thread/INFO]: theHULK (/172.17.0.1:48608) lost connection: Disconnected
+[13:18:49] [Server thread/WARN]: HabuGandu moved too quickly! -3.7503851801666315,3.3750001339414553,-8.888923809574408
+[13:18:52] [Server thread/INFO]: theHULK[/172.17.0.1:38022] logged in with entity id 17711 at (19626.30000001192, 122.31509504801853, 10955.598559670689)
+[13:18:52] [Server thread/INFO]: theHULK joined the game
+[13:19:03] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[13:19:24] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[13:22:23] [Server thread/WARN]: HabuGandu moved too quickly! 8.292202139640722,-3.7492358579467577,-5.940379799070797
+[13:22:32] [Server thread/INFO]: [HabuGandu: Teleported HabuGandu to theHULK]
+[13:22:48] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[13:23:44] [Server thread/INFO]: [theHULK: Teleported theHULK to Drakii27]
+[13:23:55] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[13:24:35] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[13:24:35] [Server thread/INFO]: HabuGandu left the game
+[13:27:41] [Server thread/INFO]: [theHULK: Teleported theHULK to Drakii27]
+[13:28:23] [Server thread/INFO]: HabuGandu[/172.17.0.1:43700] logged in with entity id 19852 at (19715.430842241316, 121.99323530006211, 10999.231057403227)
+[13:28:23] [Server thread/INFO]: HabuGandu joined the game
+[13:28:53] [Server thread/INFO]: [HabuGandu: Teleported HabuGandu to Drakii27]
+[13:33:10] [Server thread/INFO]: [theHULK: Successfully filled 41 block(s)]
+[13:33:40] [Server thread/INFO]: [theHULK: Gave 20 [Cherry Trapdoor] to Drakii27]
+[13:33:44] [Server thread/INFO]: Drakii27 has made the advancement [Not Today, Thank You]
+[13:34:09] [Server thread/INFO]: [theHULK: Gave 64 [Spectral Arrow] to Drakii27]
+[13:36:09] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[13:36:29] [Server thread/INFO]: Drakii27 went off with a bang
+[13:37:11] [Server thread/INFO]: Drakii27 went off with a bang
+[13:37:49] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[13:37:58] [Server thread/INFO]: Drakii27 was burned to a crisp while fighting HabuGandu
+[13:38:37] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[13:38:37] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
+[13:38:44] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[13:39:07] [Server thread/INFO]: [theHULK: Successfully filled 71 block(s)]
+[13:39:08] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[13:39:49] [Server thread/INFO]: Drakii27 lost connection: Timed out
+[13:39:49] [Server thread/INFO]: Drakii27 left the game
+[13:39:58] [Server thread/INFO]: Drakii27[/172.17.0.1:42796] logged in with entity id 23166 at (19650.66811496777, 118.0, 10896.984353771704)
+[13:39:58] [Server thread/INFO]: Drakii27 joined the game
+[13:40:28] [Server thread/INFO]: Drakii27 lost connection: Timed out
+[13:40:28] [Server thread/INFO]: Drakii27 left the game
+[13:40:48] [Server thread/WARN]: HabuGandu moved too quickly! 5.369184269420657,4.129895216386771,-8.146835387984538
+[13:40:54] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[13:40:54] [Server thread/INFO]: HabuGandu left the game
+[13:40:59] [Server thread/INFO]: Drakii27[/172.17.0.1:58612] logged in with entity id 23378 at (19650.66811496777, 118.0, 10896.984353771704)
+[13:40:59] [Server thread/INFO]: Drakii27 joined the game
+[13:41:36] [Server thread/INFO]: HabuGandu[/172.17.0.1:44618] logged in with entity id 23681 at (19658.8538565473, 125.61247052170381, 10903.720578595408)
+[13:41:36] [Server thread/INFO]: HabuGandu joined the game
+[13:43:20] [Server thread/WARN]: HabuGandu moved too quickly! 8.801330915262952,4.976315577220561,0.7384720718291646
+[13:44:53] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
+[13:44:55] [Server thread/WARN]: HabuGandu moved too quickly! 6.5549942132638535,2.902959225236458,8.106269802701718
+[13:45:06] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[13:45:06] [Server thread/INFO]: HabuGandu left the game
+[13:46:09] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
+[13:48:48] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
+[13:48:50] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
+[13:49:04] [Server thread/INFO]: HabuGandu[/172.17.0.1:38920] logged in with entity id 25073 at (19700.256711470076, 123.66890044561715, 10868.183940386902)
+[13:49:04] [Server thread/INFO]: HabuGandu joined the game
+[13:49:15] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[13:49:26] [Server thread/WARN]: HabuGandu moved too quickly! -6.921420963979472,0.0,7.553982608322258
+[13:49:30] [Server thread/INFO]: [theHULK: Teleported theHULK to Drakii27]
+[13:50:10] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
+[13:50:48] [Server thread/INFO]: [theHULK: Set own game mode to Spectator Mode]
+[13:51:45] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
+[13:53:16] [Server thread/WARN]: HabuGandu moved too quickly! -8.030759463639697,0.0,-6.398017431918561
+[13:53:16] [Server thread/WARN]: theHULK moved too quickly! -2.7705840466805967,-10.853137781841284,-0.2815974559453025
+[13:56:19] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[13:57:05] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[13:58:03] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[13:58:30] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[13:58:37] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
+[13:59:56] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[14:01:23] [Server thread/INFO]: Drakii27 went off with a bang
+[14:01:43] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[14:02:14] [Server thread/INFO]: [theHULK: Teleported theHULK to HabuGandu]
+[14:02:25] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[14:02:38] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[14:03:09] [Server thread/INFO]: Drakii27 drowned
+[14:03:45] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
+[14:06:32] [Server thread/INFO]: [theHULK: Teleported 3 entities to theHULK]
+[14:06:59] [Server thread/INFO]: [theHULK: Set Drakii27's game mode to Creative Mode]
+[14:07:07] [Server thread/INFO]: [theHULK: Teleported Drakii27 to theHULK]
+[14:07:29] [Server thread/INFO]: Stopping the server
+[14:07:29] [Server thread/INFO]: Stopping server
+[14:07:29] [Server thread/INFO]: Saving players
+[14:07:29] [Server thread/INFO]: theHULK lost connection: Server closed
+[14:07:29] [Server thread/INFO]: theHULK left the game
+[14:07:29] [Server thread/INFO]: Drakii27 lost connection: Server closed
+[14:07:29] [Server thread/INFO]: Drakii27 left the game
+[14:07:29] [Server thread/INFO]: Saving worlds
+[14:07:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:overworld
+[14:07:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:the_nether
+[14:07:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:the_end
+[14:07:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:07:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:07:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:07:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
