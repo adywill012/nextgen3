@@ -1,0 +1,75 @@
+[15:30:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:31:00] [ServerMain/INFO]: No existing world data, creating new world
+[15:31:01] [ServerMain/INFO]: Loaded 1290 recipes
+[15:31:01] [ServerMain/INFO]: Loaded 1399 advancements
+[15:31:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:31:02] [Server thread/INFO]: Loading properties
+[15:31:02] [Server thread/INFO]: Default game type: SURVIVAL
+[15:31:02] [Server thread/INFO]: Generating keypair
+[15:31:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:31:02] [Server thread/INFO]: Using epoll channel type
+[15:31:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:31:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:31:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:31:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:31:02] [Server thread/INFO]: Preparing level "world"
+[15:31:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:31:16] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:18] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:18] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:18] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:22] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:22] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:22] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:22] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:22] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:22] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:31:28] [Server thread/INFO]: Time elapsed: 11956 ms
+[15:31:28] [Server thread/INFO]: Done (25.588s)! For help, type "help"
+[15:32:30] [Server thread/INFO]: theHULK[/172.17.0.1:35316] logged in with entity id 24 at (-6.5, 68.0, 3.5)
+[15:32:30] [Server thread/INFO]: theHULK joined the game
+[15:32:34] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
+[15:33:32] [Server thread/WARN]: theHULK moved too quickly! -10.235345240226977,-3.7500001455515246,-0.3255282671324409
+[15:33:39] [Server thread/INFO]: theHULK lost connection: Disconnected
+[15:33:39] [Server thread/INFO]: theHULK left the game
+[15:34:36] [Server thread/INFO]: theHULK[/172.17.0.1:57034] logged in with entity id 639 at (-21.975998115320095, 98.79996733747831, -46.55717662069436)
+[15:34:36] [Server thread/INFO]: theHULK joined the game
+[15:36:26] [Server thread/WARN]: theHULK moved too quickly! -7.91489125664568,0.0,6.5816659034647955
+[15:37:16] [Server thread/INFO]: [theHULK: Teleported theHULK to 208.500000, 125.783010, 0.500000]
+[15:37:23] [Server thread/INFO]: [theHULK: Set own game mode to Spectator Mode]
+[15:38:26] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
+[15:38:29] [Server thread/WARN]: theHULK moved too quickly! 0.0,-10.305556714823467,0.0
+[15:38:42] [Server thread/INFO]: theHULK lost connection: Disconnected
+[15:38:42] [Server thread/INFO]: theHULK left the game
+[15:39:19] [Server thread/INFO]: theHULK[/172.17.0.1:59380] logged in with entity id 3023 at (199.04785548489147, 89.42877078494652, 3.3445401550885063)
+[15:39:19] [Server thread/INFO]: theHULK joined the game
+[15:40:35] [Server thread/WARN]: theHULK moved too quickly! -8.897001273554338,3.3750001075206484,3.9859950863909717
+[15:41:22] [Server thread/WARN]: theHULK moved too quickly! -8.109543436733503,3.3594124209233485,-5.299612054918768
+[15:42:26] [Server thread/INFO]: [theHULK: Set the world spawn point to 109, 110, 25 [0.0]]
+[15:42:37] [Server thread/INFO]: theHULK lost connection: Disconnected
+[15:42:37] [Server thread/INFO]: theHULK left the game
+[15:42:45] [Server thread/INFO]: Stopping the server
+[15:42:45] [Server thread/INFO]: Stopping server
+[15:42:45] [Server thread/INFO]: Saving players
+[15:42:45] [Server thread/INFO]: Saving worlds
+[15:42:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:42:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:42:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:42:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:42:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:42:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:42:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
