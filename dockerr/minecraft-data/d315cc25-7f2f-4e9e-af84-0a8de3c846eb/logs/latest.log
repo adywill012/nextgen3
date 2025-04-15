@@ -1,77 +1,290 @@
-[07:41:17] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu124.04; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[07:41:17] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-133-ver/1.21.1@3cb8529 (2025-03-28T16:14:36Z) for Minecraft 1.21.1
-[07:41:17] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[07:41:18] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[07:41:18] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[07:46:35] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu124.04; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[07:46:35] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-133-ver/1.21.1@3cb8529 (2025-03-28T16:14:36Z) for Minecraft 1.21.1
+[07:46:35] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:46:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[07:46:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - Manhunt (1.4)
-[07:41:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:41:28] [ServerMain/INFO]: Loaded 1290 recipes
-[07:41:28] [ServerMain/INFO]: Loaded 1399 advancements
-[07:41:29] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[07:41:29] [Server thread/INFO]: Loading properties
-[07:41:29] [Server thread/INFO]: This server is running Paper version 1.21.1-133-ver/1.21.1@3cb8529 (2025-03-28T16:14:36Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[07:41:30] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[07:41:30] [Server thread/INFO]: Using 4 threads for Netty based IO
-[07:41:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[07:41:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[07:41:32] [Server thread/INFO]: Default game type: SURVIVAL
-[07:41:32] [Server thread/INFO]: Generating keypair
-[07:41:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:41:32] [Server thread/INFO]: Using epoll channel type
-[07:41:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[07:41:32] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[07:41:32] [Server thread/INFO]: [Manhunt] Loading server plugin Manhunt v1.4
-[07:41:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[07:41:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:41:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:41:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:41:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:41:32] [Server thread/INFO]: Preparing level "world"
-[07:41:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:41:36] [Server thread/INFO]: Time elapsed: 2128 ms
-[07:41:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[07:41:36] [Server thread/INFO]: Time elapsed: 332 ms
-[07:41:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[07:41:36] [Server thread/INFO]: Time elapsed: 253 ms
-[07:41:36] [Server thread/INFO]: [Manhunt] Enabling Manhunt v1.4
-[07:41:36] [Server thread/INFO]: [spark] Starting background profiler...
-[07:41:37] [Server thread/INFO]: Done preparing level "world" (4.416s)
-[07:41:37] [Server thread/INFO]: Running delayed init tasks
-[07:41:37] [Server thread/INFO]: Done (21.658s)! For help, type "help"
-[07:41:37] [Server thread/INFO]: Timings Reset
-[07:42:15] [User Authenticator #0/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
-[07:42:17] [Server thread/INFO]: HabuGandu joined the game
-[07:42:18] [Server thread/INFO]: HabuGandu[/172.17.0.1:60886] logged in with entity id 23 at ([world]199.10672687873537, 64.74739280407248, 115.37591528836849)
-[07:42:32] [User Authenticator #0/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
-[07:42:34] [Server thread/INFO]: theHULK joined the game
-[07:42:34] [Server thread/INFO]: theHULK[/172.17.0.1:33318] logged in with entity id 326 at ([world]334.03867681215763, 63.0, 185.5065206546496)
-[07:42:53] [Server thread/INFO]: theHULK issued server command: /selectrunner theHULK
-[07:42:53] [Server thread/INFO]: theHULK has been selected as the runner.
-[07:43:02] [Server thread/INFO]: theHULK lost connection: Disconnected
-[07:43:02] [Server thread/INFO]: theHULK left the game
-[07:43:08] [Server thread/INFO]: Stopping the server
-[07:43:08] [Server thread/INFO]: Stopping server
-[07:43:08] [Server thread/INFO]: [Manhunt] Disabling Manhunt v1.4
-[07:43:09] [Server thread/INFO]: Saving players
-[07:43:09] [Server thread/INFO]: HabuGandu lost connection: Server closed
-[07:43:09] [Server thread/INFO]: HabuGandu left the game
-[07:43:09] [Server thread/INFO]: Saving worlds
-[07:43:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:43:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:43:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:43:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:43:11] [Server thread/INFO]: [ChunkHolderManager] Saved 996 block chunks, 996 entity chunks, 0 poi chunks in world 'world' in 2.75s
-[07:43:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.25s
-[07:43:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
-[07:43:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:43:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:43:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:43:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:46:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:46:46] [ServerMain/INFO]: Loaded 1290 recipes
+[07:46:46] [ServerMain/INFO]: Loaded 1399 advancements
+[07:46:47] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[07:46:47] [Server thread/INFO]: Loading properties
+[07:46:47] [Server thread/INFO]: This server is running Paper version 1.21.1-133-ver/1.21.1@3cb8529 (2025-03-28T16:14:36Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[07:46:48] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:46:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:46:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:46:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[07:46:50] [Server thread/INFO]: Default game type: SURVIVAL
+[07:46:50] [Server thread/INFO]: Generating keypair
+[07:46:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:46:50] [Server thread/INFO]: Using epoll channel type
+[07:46:50] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:46:50] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:46:50] [Server thread/INFO]: [Manhunt] Loading server plugin Manhunt v1.4
+[07:46:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:46:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:46:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:46:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:46:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:46:50] [Server thread/INFO]: Preparing level "world"
+[07:46:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:46:53] [Server thread/INFO]: Time elapsed: 2329 ms
+[07:46:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:46:54] [Server thread/INFO]: Time elapsed: 474 ms
+[07:46:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:46:54] [Server thread/INFO]: Time elapsed: 292 ms
+[07:46:54] [Server thread/INFO]: [Manhunt] Enabling Manhunt v1.4
+[07:46:54] [Server thread/INFO]: [spark] Starting background profiler...
+[07:46:55] [Server thread/INFO]: Done preparing level "world" (4.597s)
+[07:46:55] [Server thread/INFO]: Running delayed init tasks
+[07:46:55] [Server thread/INFO]: Done (21.549s)! For help, type "help"
+[07:46:55] [Server thread/INFO]: Timings Reset
+[07:47:16] [User Authenticator #0/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[07:47:18] [Server thread/INFO]: theHULK joined the game
+[07:47:18] [Server thread/INFO]: theHULK[/172.17.0.1:41594] logged in with entity id 23 at ([world]337.30524228222805, 63.0, 192.68325190748)
+[07:47:52] [User Authenticator #0/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[07:47:53] [Server thread/INFO]: HabuGandu joined the game
+[07:47:53] [Server thread/INFO]: HabuGandu[/172.17.0.1:37352] logged in with entity id 340 at ([world]207.62641163339217, 65.0, 112.57910594645378)
+[07:47:54] [Server thread/INFO]: theHULK issued server command: /kill @a
+[07:47:54] [Server thread/INFO]: theHULK was killed
+[07:47:54] [Server thread/INFO]: HabuGandu was killed
+[07:47:54] [Server thread/INFO]: [theHULK: Killed 2 entities]
+[07:48:13] [Async Chat Thread - #0/INFO]: [Not Secure] <theHULK> testing 1 thing wait
+[07:48:17] [Async Chat Thread - #1/INFO]: [Not Secure] <HabuGandu> ok
+[07:48:25] [Server thread/INFO]: theHULK issued server command: /selectrunner theHULK
+[07:48:25] [Server thread/INFO]: theHULK has been selected as the runner.
+[07:48:54] [Async Chat Thread - #0/INFO]: [Not Secure] <theHULK> start
+[07:49:22] [Server thread/INFO]: HabuGandu was slain by theHULK
+[07:53:57] [Async Chat Thread - #3/INFO]: [Not Secure] <theHULK> stop
+[07:54:03] [Async Chat Thread - #3/INFO]: [Not Secure] <HabuGandu> ok
+[07:54:11] [Async Chat Thread - #2/INFO]: [Not Secure] <theHULK> start
+[07:54:30] [Async Chat Thread - #3/INFO]: [Not Secure] <HabuGandu> smoker kyathi
+[07:54:41] [Async Chat Thread - #2/INFO]: [Not Secure] <theHULK> banayu
+[07:54:46] [Async Chat Thread - #2/INFO]: [Not Secure] <HabuGandu> ok
+[08:00:15] [Server thread/INFO]: theHULK has made the advancement [Monster Hunter]
+[08:04:44] [Async Chat Thread - #5/INFO]: [Not Secure] <theHULK> pause
+[08:06:26] [Async Chat Thread - #6/INFO]: [Not Secure] <theHULK> amr
+[08:06:35] [Server thread/INFO]: HabuGandu was slain by Iron Golem
+[08:06:44] [Server thread/INFO]: theHULK has made the advancement [Acquire Hardware]
+[08:12:25] [Async Chat Thread - #8/INFO]: [Not Secure] <theHULK> 1 min pause marto nai
+[08:14:12] [Async Chat Thread - #10/INFO]: [Not Secure] <theHULK> start
+[08:15:06] [Server thread/INFO]: Villager Villager['Villager'/4777, uuid='03e59d6d-e78d-4470-8b78-f099e98f7fda', l='ServerLevel[world]', x=185.50, y=65.00, z=658.75, cpos=[11, 41], tl=15137, v=true] died, message: 'Villager was blown up by Creeper'
+[08:17:39] [Server thread/INFO]: theHULK has made the advancement [Hot Stuff]
+[08:21:26] [Server thread/INFO]: HabuGandu has made the advancement [Monster Hunter]
+[08:24:05] [Async Chat Thread - #11/INFO]: [Not Secure] <theHULK> heril avaj ocho kr bapa bolse
+[08:24:11] [Server thread/INFO]: HabuGandu was slain by Zombie
+[08:27:44] [Server thread/INFO]: theHULK has made the advancement [Isn't It Iron Pick]
+[08:30:04] [Server thread/INFO]: Villager Villager['Villager'/4778, uuid='266ca6a9-71cd-4fe0-b139-5e57ef5c5e04', l='ServerLevel[world]', x=221.30, y=69.05, z=626.01, cpos=[13, 39], tl=28361, v=true] died, message: 'Villager was slain by Zombie'
+[08:30:13] [Server thread/INFO]: Villager Villager['Villager'/4215, uuid='7ad1c0f1-1628-41a5-9b72-1a6ce042280a', l='ServerLevel[world]', x=221.70, y=68.15, z=625.51, cpos=[13, 39], tl=28653, v=true] died, message: 'Villager was slain by Zombie'
+[08:30:55] [Server thread/INFO]: HabuGandu has made the advancement [Sweet Dreams]
+[08:31:03] [Async Chat Thread - #13/INFO]: [Not Secure] <HabuGandu> wait 1 minuteb pause
+[08:33:35] [Server thread/INFO]: theHULK lost connection: Timed out
+[08:33:35] [Server thread/INFO]: theHULK left the game
+[08:33:42] [User Authenticator #1/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[08:33:52] [Server thread/INFO]: theHULK joined the game
+[08:33:52] [Server thread/INFO]: theHULK[/172.17.0.1:60628] logged in with entity id 13806 at ([world]14.792241930458195, 70.0, 909.2163469259626)
+[08:34:14] [Async Chat Thread - #15/INFO]: [Not Secure] <HabuGandu> portal banavta na aauadyu
+[08:34:45] [Server thread/INFO]: theHULK lost connection: Disconnected
+[08:34:45] [Server thread/INFO]: theHULK left the game
+[08:35:20] [User Authenticator #2/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[08:35:21] [Server thread/INFO]: theHULK joined the game
+[08:35:21] [Server thread/INFO]: theHULK[/172.17.0.1:38756] logged in with entity id 14165 at ([world]14.792241930458195, 70.0, 909.2163469259626)
+[08:37:19] [Server thread/WARN]: theHULK was kicked for floating too long!
+[08:37:19] [Server thread/INFO]: theHULK lost connection: Flying is not enabled on this server
+[08:37:19] [Server thread/INFO]: theHULK left the game
+[08:39:13] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[08:39:13] [Server thread/INFO]: HabuGandu left the game
+[08:39:30] [User Authenticator #3/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:39:33] [Server thread/INFO]: HabuGandu joined the game
+[08:39:33] [Server thread/INFO]: HabuGandu[/172.17.0.1:43888] logged in with entity id 15571 at ([world]190.51698280441306, 86.0, 634.2083196063277)
+[08:39:56] [User Authenticator #3/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[08:39:57] [Server thread/INFO]: theHULK joined the game
+[08:39:57] [Server thread/INFO]: theHULK[/172.17.0.1:50806] logged in with entity id 15862 at ([world]-240.68519862643757, 68.2829253285644, 912.3758259951451)
+[08:40:58] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[08:40:58] [Server thread/INFO]: HabuGandu left the game
+[08:41:12] [User Authenticator #4/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:41:13] [Server thread/INFO]: HabuGandu joined the game
+[08:41:13] [Server thread/INFO]: HabuGandu[/172.17.0.1:42798] logged in with entity id 16458 at ([world]191.12157899315682, 86.0, 634.5595978001436)
+[08:41:19] [Server thread/INFO]: HabuGandu has made the advancement [Acquire Hardware]
+[08:43:08] [Server thread/INFO]: theHULK lost connection: Timed out
+[08:43:08] [Server thread/INFO]: theHULK left the game
+[08:43:32] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[08:43:32] [Server thread/INFO]: HabuGandu left the game
+[08:43:53] [User Authenticator #5/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:43:55] [Server thread/INFO]: HabuGandu joined the game
+[08:43:55] [Server thread/INFO]: HabuGandu[/172.17.0.1:60982] logged in with entity id 17258 at ([world]132.01486954012987, 76.0, 661.1995877239781)
+[08:46:29] [User Authenticator #6/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[08:46:30] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[08:46:30] [Server thread/INFO]: HabuGandu left the game
+[08:46:30] [Server thread/INFO]: theHULK joined the game
+[08:46:30] [Server thread/INFO]: theHULK[/172.17.0.1:53036] logged in with entity id 17978 at ([world]-227.69999998807907, 64.5979679760046, 837.3000000119209)
+[08:47:09] [User Authenticator #6/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:47:11] [Server thread/INFO]: HabuGandu joined the game
+[08:47:11] [Server thread/INFO]: HabuGandu[/172.17.0.1:33628] logged in with entity id 18333 at ([world]45.6024443517193, 67.66813598547792, 716.6830288142203)
+[08:49:36] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[08:49:36] [Server thread/INFO]: HabuGandu left the game
+[08:50:03] [User Authenticator #7/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:50:04] [Server thread/INFO]: HabuGandu joined the game
+[08:50:04] [Server thread/INFO]: HabuGandu[/172.17.0.1:51196] logged in with entity id 19497 at ([world]-4.414163720104062, 15.0, 771.3735415607101)
+[08:52:20] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[08:52:20] [Server thread/INFO]: HabuGandu left the game
+[08:53:29] [User Authenticator #8/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:53:30] [Server thread/INFO]: HabuGandu joined the game
+[08:53:30] [Server thread/INFO]: HabuGandu[/172.17.0.1:45784] logged in with entity id 20354 at ([world]6.48392832435798, -1.0, 789.3000000119209)
+[08:54:48] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[08:54:48] [Server thread/INFO]: HabuGandu left the game
+[08:55:08] [Server thread/INFO]: theHULK lost connection: Timed out
+[08:55:08] [Server thread/INFO]: theHULK left the game
+[08:55:10] [User Authenticator #9/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:55:11] [Server thread/INFO]: HabuGandu joined the game
+[08:55:11] [Server thread/INFO]: HabuGandu[/172.17.0.1:56174] logged in with entity id 20828 at ([world]6.699999988079071, -1.2550304520808182, 789.4677029928911)
+[08:55:27] [User Authenticator #9/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[08:55:33] [Server thread/INFO]: theHULK joined the game
+[08:55:33] [Server thread/INFO]: theHULK[/172.17.0.1:40240] logged in with entity id 21046 at ([world]-402.9328904060304, 71.0, 1023.8516837200167)
+[08:56:16] [Server thread/INFO]: theHULK lost connection: Disconnected
+[08:56:16] [Server thread/INFO]: theHULK left the game
+[08:56:42] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[08:56:42] [Server thread/INFO]: HabuGandu left the game
+[08:56:53] [User Authenticator #10/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[08:56:55] [Server thread/INFO]: theHULK joined the game
+[08:56:55] [Server thread/INFO]: theHULK[/172.17.0.1:53500] logged in with entity id 21379 at ([world]-402.9328904060304, 71.0, 1023.8516837200167)
+[08:57:30] [Server thread/INFO]: theHULK lost connection: Disconnected
+[08:57:30] [Server thread/INFO]: theHULK left the game
+[08:57:31] [User Authenticator #10/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:57:32] [Server thread/INFO]: HabuGandu joined the game
+[08:57:32] [Server thread/INFO]: HabuGandu[/172.17.0.1:60516] logged in with entity id 21665 at ([world]6.105978400294837, -2.0, 789.4211400049561)
+[08:57:48] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[08:57:48] [Server thread/INFO]: HabuGandu left the game
+[08:58:10] [User Authenticator #10/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:58:12] [Server thread/INFO]: HabuGandu joined the game
+[08:58:12] [Server thread/INFO]: HabuGandu[/172.17.0.1:42720] logged in with entity id 22019 at ([world]5.300000011920929, -2.0, 789.6999999880791)
+[08:58:21] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[08:58:21] [Server thread/INFO]: HabuGandu left the game
+[08:58:36] [User Authenticator #10/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[08:58:38] [Server thread/INFO]: theHULK joined the game
+[08:58:38] [Server thread/INFO]: theHULK[/172.17.0.1:35952] logged in with entity id 22324 at ([world]-402.9328904060304, 71.0, 1023.8516837200167)
+[08:58:49] [User Authenticator #10/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[08:58:51] [Server thread/INFO]: HabuGandu joined the game
+[08:58:51] [Server thread/INFO]: HabuGandu[/172.17.0.1:58428] logged in with entity id 22597 at ([world]6.1531999899909176, -2.0, 789.6999999880791)
+[08:59:26] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[08:59:26] [Server thread/INFO]: HabuGandu left the game
+[09:01:01] [Server thread/INFO]: theHULK lost connection: Disconnected
+[09:01:01] [Server thread/INFO]: theHULK left the game
+[09:01:12] [User Authenticator #11/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:01:13] [Server thread/INFO]: theHULK joined the game
+[09:01:13] [Server thread/INFO]: theHULK[/172.17.0.1:50372] logged in with entity id 23432 at ([world]-265.7656295519487, 65.0, 1146.467589628297)
+[09:01:21] [User Authenticator #11/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:01:24] [Server thread/INFO]: HabuGandu joined the game
+[09:01:24] [Server thread/INFO]: HabuGandu[/172.17.0.1:50382] logged in with entity id 23690 at ([world]4.766814939990925, -1.0, 787.3000000119209)
+[09:01:52] [Async Chat Thread - #17/INFO]: [Not Secure] <HabuGandu> aryan crafting table aap
+[09:02:00] [Server thread/INFO]: theHULK issued server command: /give HabuGandu minecraft:crafting_table
+[09:02:00] [Server thread/INFO]: [theHULK: Gave 1 [Crafting Table] to HabuGandu]
+[09:02:51] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:02:51] [Server thread/INFO]: HabuGandu left the game
+[09:03:04] [User Authenticator #12/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:03:07] [Server thread/INFO]: HabuGandu joined the game
+[09:03:07] [Server thread/INFO]: HabuGandu[/172.17.0.1:51900] logged in with entity id 24262 at ([world]5.4533741962606035, -1.0, 787.5963333808116)
+[09:05:11] [Server thread/INFO]: theHULK lost connection: Disconnected
+[09:05:11] [Server thread/INFO]: theHULK left the game
+[09:06:02] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[09:06:02] [Server thread/INFO]: HabuGandu left the game
+[09:06:24] [User Authenticator #13/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:06:27] [Server thread/INFO]: HabuGandu joined the game
+[09:06:27] [Server thread/INFO]: HabuGandu[/172.17.0.1:37048] logged in with entity id 25111 at ([world]5.355387269744709, -1.0, 788.8607655155976)
+[09:08:11] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[09:08:11] [Server thread/INFO]: HabuGandu left the game
+[09:08:13] [User Authenticator #14/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:08:15] [Server thread/INFO]: HabuGandu joined the game
+[09:08:15] [Server thread/INFO]: HabuGandu[/172.17.0.1:39644] logged in with entity id 25507 at ([world]5.300000011920929, -2.0, 789.4622205136966)
+[09:08:27] [Server thread/INFO]: HabuGandu has made the advancement [Isn't It Iron Pick]
+[09:08:54] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:08:54] [Server thread/INFO]: HabuGandu left the game
+[09:09:29] [User Authenticator #15/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:09:31] [Server thread/INFO]: HabuGandu joined the game
+[09:09:31] [Server thread/INFO]: HabuGandu[/172.17.0.1:47744] logged in with entity id 25558 at ([world]5.933000572496449, -2.0, 789.5633539110436)
+[09:09:41] [Server thread/INFO]: HabuGandu has made the advancement [Diamonds!]
+[09:10:02] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:10:02] [Server thread/INFO]: HabuGandu left the game
+[09:10:25] [User Authenticator #15/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:10:27] [Server thread/INFO]: HabuGandu joined the game
+[09:10:27] [Server thread/INFO]: HabuGandu[/172.17.0.1:52108] logged in with entity id 25880 at ([world]4.369242430109147, -2.0, 788.846105004412)
+[09:10:51] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:10:51] [Server thread/INFO]: HabuGandu left the game
+[09:11:16] [User Authenticator #15/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:11:17] [Server thread/INFO]: HabuGandu joined the game
+[09:11:17] [Server thread/INFO]: HabuGandu[/172.17.0.1:40060] logged in with entity id 26189 at ([world]4.6679617861437945, -2.0, 788.6367808763218)
+[09:11:20] [User Authenticator #15/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:11:22] [Server thread/INFO]: theHULK joined the game
+[09:11:22] [Server thread/INFO]: theHULK[/172.17.0.1:40068] logged in with entity id 26416 at ([world]-264.6784708812343, 60.0, 1292.2433487624853)
+[09:11:54] [Server thread/INFO]: theHULK lost connection: Timed out
+[09:11:54] [Server thread/INFO]: theHULK left the game
+[09:12:06] [Server thread/INFO]: HabuGandu has made the advancement [Cover Me with Diamonds]
+[09:12:49] [User Authenticator #16/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:12:50] [Server thread/INFO]: theHULK joined the game
+[09:12:50] [Server thread/INFO]: theHULK[/172.17.0.1:43122] logged in with entity id 26867 at ([world]-261.23914331193834, 60.16912552244726, 1289.760569619903)
+[09:14:03] [Server thread/INFO]: theHULK has made the advancement [Suit Up]
+[09:14:03] [Async Chat Thread - #19/INFO]: [Not Secure] <HabuGandu> shu kare che
+[09:14:06] [Server thread/INFO]: theHULK lost connection: Disconnected
+[09:14:06] [Server thread/INFO]: theHULK left the game
+[09:14:26] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:14:26] [Server thread/INFO]: HabuGandu left the game
+[09:15:06] [User Authenticator #17/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:15:08] [Server thread/INFO]: theHULK joined the game
+[09:15:08] [Server thread/INFO]: theHULK[/172.17.0.1:37800] logged in with entity id 27329 at ([world]-260.0139214006003, 65.0, 1289.748627492562)
+[09:15:26] [User Authenticator #17/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:15:28] [Server thread/INFO]: HabuGandu joined the game
+[09:15:28] [Server thread/INFO]: HabuGandu[/172.17.0.1:48492] logged in with entity id 27589 at ([world]2.943791554942819, -2.0, 788.7856098429521)
+[09:17:08] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:17:08] [Server thread/INFO]: HabuGandu left the game
+[09:17:23] [Server thread/INFO]: theHULK lost connection: Disconnected
+[09:17:23] [Server thread/INFO]: theHULK left the game
+[09:18:01] [User Authenticator #18/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:18:03] [Server thread/INFO]: HabuGandu (/172.17.0.1:43480) lost connection: Disconnected
+[09:19:11] [User Authenticator #19/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:19:12] [Server thread/INFO]: HabuGandu joined the game
+[09:19:12] [Server thread/INFO]: HabuGandu[/172.17.0.1:53676] logged in with entity id 28207 at ([world]6.300000011920929, -2.0, 796.5736998651917)
+[09:20:09] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:20:09] [Server thread/INFO]: HabuGandu left the game
+[09:21:37] [User Authenticator #20/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:21:39] [Server thread/INFO]: HabuGandu joined the game
+[09:21:39] [Server thread/INFO]: HabuGandu[/172.17.0.1:51614] logged in with entity id 28561 at ([world]2.300000011920929, -3.0, 796.6999999880791)
+[09:21:42] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:21:42] [Server thread/INFO]: HabuGandu left the game
+[09:26:55] [User Authenticator #21/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:26:57] [Server thread/INFO]: theHULK joined the game
+[09:26:57] [Server thread/INFO]: theHULK[/172.17.0.1:55576] logged in with entity id 28756 at ([world]-293.62649993746555, 74.0, 1296.2706867019747)
+[09:27:26] [Server thread/INFO]: theHULK lost connection: Disconnected
+[09:27:26] [Server thread/INFO]: theHULK left the game
+[09:27:33] [User Authenticator #21/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:27:34] [Server thread/INFO]: HabuGandu joined the game
+[09:27:34] [Server thread/INFO]: HabuGandu[/172.17.0.1:60722] logged in with entity id 29036 at ([world]2.300000011920929, -3.0, 796.6999999880791)
+[09:27:45] [User Authenticator #21/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:27:47] [Server thread/INFO]: theHULK joined the game
+[09:27:47] [Server thread/INFO]: theHULK[/172.17.0.1:51380] logged in with entity id 29343 at ([world]-286.75152428292927, 74.7531999805212, 1295.7848199610748)
+[09:28:00] [Server thread/INFO]: theHULK lost connection: Disconnected
+[09:28:00] [Server thread/INFO]: theHULK left the game
+[09:28:39] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:28:39] [Server thread/INFO]: HabuGandu left the game
+[09:28:58] [User Authenticator #22/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:29:01] [Server thread/INFO]: HabuGandu joined the game
+[09:29:01] [Server thread/INFO]: HabuGandu[/172.17.0.1:46506] logged in with entity id 29686 at ([world]2.507242999003821, 6.0, 797.6999999880791)
+[09:29:25] [User Authenticator #22/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:29:25] [Server thread/INFO]: theHULK joined the game
+[09:29:25] [Server thread/INFO]: theHULK[/172.17.0.1:33864] logged in with entity id 30009 at ([world]-285.2824589686508, 75.0, 1294.6486792301841)
+[09:29:37] [Server thread/INFO]: theHULK lost connection: Disconnected
+[09:29:37] [Server thread/INFO]: theHULK left the game
+[09:29:43] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:29:43] [Server thread/INFO]: HabuGandu left the game
+[09:31:10] [User Authenticator #23/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[09:31:11] [Server thread/INFO]: HabuGandu joined the game
+[09:31:11] [Server thread/INFO]: HabuGandu[/172.17.0.1:49462] logged in with entity id 30312 at ([world]2.300000011920929, 14.0, 796.3000000119209)
+[09:31:14] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[09:31:14] [Server thread/INFO]: HabuGandu left the game
+[09:33:50] [User Authenticator #24/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:33:53] [Server thread/INFO]: theHULK joined the game
+[09:33:53] [Server thread/INFO]: theHULK[/172.17.0.1:47342] logged in with entity id 30520 at ([world]-265.54763566711756, 74.0, 1291.3803973811891)
+[09:34:20] [Server thread/INFO]: theHULK lost connection: Disconnected
+[09:34:20] [Server thread/INFO]: theHULK left the game
+[09:34:48] [User Authenticator #24/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[09:34:51] [Server thread/INFO]: theHULK joined the game
+[09:34:51] [Server thread/INFO]: theHULK[/172.17.0.1:39438] logged in with entity id 30790 at ([world]-265.54763566711756, 74.0, 1291.3803973811891)
