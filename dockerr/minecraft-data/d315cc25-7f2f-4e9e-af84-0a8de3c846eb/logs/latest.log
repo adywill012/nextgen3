@@ -1,0 +1,77 @@
+[07:41:17] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu124.04; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[07:41:17] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-133-ver/1.21.1@3cb8529 (2025-03-28T16:14:36Z) for Minecraft 1.21.1
+[07:41:17] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:41:18] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[07:41:18] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - Manhunt (1.4)
+[07:41:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:41:28] [ServerMain/INFO]: Loaded 1290 recipes
+[07:41:28] [ServerMain/INFO]: Loaded 1399 advancements
+[07:41:29] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[07:41:29] [Server thread/INFO]: Loading properties
+[07:41:29] [Server thread/INFO]: This server is running Paper version 1.21.1-133-ver/1.21.1@3cb8529 (2025-03-28T16:14:36Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[07:41:30] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:41:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:41:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:41:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[07:41:32] [Server thread/INFO]: Default game type: SURVIVAL
+[07:41:32] [Server thread/INFO]: Generating keypair
+[07:41:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:41:32] [Server thread/INFO]: Using epoll channel type
+[07:41:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:41:32] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:41:32] [Server thread/INFO]: [Manhunt] Loading server plugin Manhunt v1.4
+[07:41:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:41:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:41:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:41:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:41:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:41:32] [Server thread/INFO]: Preparing level "world"
+[07:41:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:41:36] [Server thread/INFO]: Time elapsed: 2128 ms
+[07:41:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:41:36] [Server thread/INFO]: Time elapsed: 332 ms
+[07:41:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:41:36] [Server thread/INFO]: Time elapsed: 253 ms
+[07:41:36] [Server thread/INFO]: [Manhunt] Enabling Manhunt v1.4
+[07:41:36] [Server thread/INFO]: [spark] Starting background profiler...
+[07:41:37] [Server thread/INFO]: Done preparing level "world" (4.416s)
+[07:41:37] [Server thread/INFO]: Running delayed init tasks
+[07:41:37] [Server thread/INFO]: Done (21.658s)! For help, type "help"
+[07:41:37] [Server thread/INFO]: Timings Reset
+[07:42:15] [User Authenticator #0/INFO]: UUID of player HabuGandu is 0b732e4f-60ff-3d66-a31c-2b21d5329344
+[07:42:17] [Server thread/INFO]: HabuGandu joined the game
+[07:42:18] [Server thread/INFO]: HabuGandu[/172.17.0.1:60886] logged in with entity id 23 at ([world]199.10672687873537, 64.74739280407248, 115.37591528836849)
+[07:42:32] [User Authenticator #0/INFO]: UUID of player theHULK is 57880c86-f36c-3a31-8f71-b7949fa31427
+[07:42:34] [Server thread/INFO]: theHULK joined the game
+[07:42:34] [Server thread/INFO]: theHULK[/172.17.0.1:33318] logged in with entity id 326 at ([world]334.03867681215763, 63.0, 185.5065206546496)
+[07:42:53] [Server thread/INFO]: theHULK issued server command: /selectrunner theHULK
+[07:42:53] [Server thread/INFO]: theHULK has been selected as the runner.
+[07:43:02] [Server thread/INFO]: theHULK lost connection: Disconnected
+[07:43:02] [Server thread/INFO]: theHULK left the game
+[07:43:08] [Server thread/INFO]: Stopping the server
+[07:43:08] [Server thread/INFO]: Stopping server
+[07:43:08] [Server thread/INFO]: [Manhunt] Disabling Manhunt v1.4
+[07:43:09] [Server thread/INFO]: Saving players
+[07:43:09] [Server thread/INFO]: HabuGandu lost connection: Server closed
+[07:43:09] [Server thread/INFO]: HabuGandu left the game
+[07:43:09] [Server thread/INFO]: Saving worlds
+[07:43:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:43:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:43:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:43:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:43:11] [Server thread/INFO]: [ChunkHolderManager] Saved 996 block chunks, 996 entity chunks, 0 poi chunks in world 'world' in 2.75s
+[07:43:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.25s
+[07:43:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:43:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
+[07:43:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:43:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:43:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:43:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

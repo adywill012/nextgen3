@@ -12,3 +12,6 @@ while true; do echo "Preventing idle timeout"; sleep 40; done
 { 147.185.221.26:57939 } << server ip
 
 /gamerule playersSleepingPercentage 20
+
+/selectrunner <name> | /runner <name> - Choose who the speedrunner will be.
+/getcompass | /compass - Give yourself a new tracking compass (hunters only).
