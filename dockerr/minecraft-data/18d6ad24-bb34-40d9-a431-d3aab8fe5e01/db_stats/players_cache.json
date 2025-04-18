@@ -1,9 +1,4 @@
 {
-    "theHULK": {
-        "name": "theHULK",
-        "status": "Offline",
-        "last_seen": "16/04/2025 09:51"
-    },
     "HabuGandu": {
         "name": "HabuGandu",
         "status": "Offline",
@@ -13,5 +8,10 @@
         "name": "Drakii27",
         "status": "Offline",
         "last_seen": "16/04/2025 10:25"
+    },
+    "theHULK": {
+        "name": "theHULK",
+        "status": "Offline",
+        "last_seen": "18/04/2025 06:04"
     }
 }

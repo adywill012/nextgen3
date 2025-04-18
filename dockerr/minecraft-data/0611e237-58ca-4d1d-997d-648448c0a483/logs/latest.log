@@ -1,44 +1,71 @@
-[08:57:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:57:23] [ServerMain/INFO]: Loaded 1290 recipes
-[08:57:24] [ServerMain/INFO]: Loaded 1399 advancements
-[08:57:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[08:57:24] [Server thread/INFO]: Loading properties
-[08:57:24] [Server thread/INFO]: Default game type: SURVIVAL
-[08:57:24] [Server thread/INFO]: Generating keypair
-[08:57:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:57:25] [Server thread/INFO]: Using epoll channel type
-[08:57:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:57:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:57:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:57:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:57:25] [Server thread/INFO]: Preparing level "world"
-[08:57:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:57:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:57:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:57:32] [Server thread/INFO]: Time elapsed: 835 ms
-[08:57:32] [Server thread/INFO]: Done (7.412s)! For help, type "help"
-[08:57:50] [Server thread/INFO]: theHULK[/172.17.0.1:41974] logged in with entity id 31 at (175.5653087470505, 64.0, 8.29308695272862)
-[08:57:50] [Server thread/INFO]: theHULK joined the game
-[08:58:05] [Server thread/INFO]: Drakii27[/172.17.0.1:60898] logged in with entity id 316 at (180.76003232037684, 64.0, 30.384832390382137)
-[08:58:05] [Server thread/INFO]: Drakii27 joined the game
-[08:58:13] [Server thread/INFO]: theHULK lost connection: Disconnected
-[08:58:13] [Server thread/INFO]: theHULK left the game
-[08:59:30] [Server thread/INFO]: HabuGandu[/172.17.0.1:40330] logged in with entity id 507 at (197.17917408041743, 78.0, -5.9829277242516135)
-[08:59:30] [Server thread/INFO]: HabuGandu joined the game
-[08:59:45] [Server thread/INFO]: theHULK[/172.17.0.1:51074] logged in with entity id 561 at (177.0435133521665, 64.0, 8.873244737341755)
-[08:59:45] [Server thread/INFO]: theHULK joined the game
-[09:02:49] [Server thread/INFO]: theHULK lost connection: Disconnected
-[09:02:49] [Server thread/INFO]: theHULK left the game
-[09:02:58] [Server thread/INFO]: Stopping the server
-[09:02:58] [Server thread/INFO]: Stopping server
-[09:02:58] [Server thread/INFO]: Saving players
-[09:02:58] [Server thread/INFO]: HabuGandu lost connection: Server closed
-[09:02:58] [Server thread/INFO]: HabuGandu left the game
-[09:02:58] [Server thread/INFO]: Saving worlds
-[09:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:02:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:02:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:24:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:24:57] [ServerMain/INFO]: Loaded 1290 recipes
+[14:24:57] [ServerMain/INFO]: Loaded 1399 advancements
+[14:24:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:24:58] [Server thread/INFO]: Loading properties
+[14:24:58] [Server thread/INFO]: Default game type: SURVIVAL
+[14:24:58] [Server thread/INFO]: Generating keypair
+[14:24:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:24:59] [Server thread/INFO]: Using epoll channel type
+[14:24:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:24:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:24:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:24:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:24:59] [Server thread/INFO]: Preparing level "world"
+[14:25:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:25:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:25:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:25:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:25:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:25:18] [Server thread/INFO]: Time elapsed: 1925 ms
+[14:25:18] [Server thread/INFO]: Done (18.489s)! For help, type "help"
+[14:28:14] [Server thread/INFO]: HabuGandu[/172.17.0.1:50010] logged in with entity id 35 at (178.55588036378182, 63.0, 23.677338297985784)
+[14:28:14] [Server thread/INFO]: HabuGandu joined the game
+[14:28:33] [Server thread/INFO]: Drakii27[/172.17.0.1:58868] logged in with entity id 327 at (186.14557204367964, 63.0, 25.69999998807907)
+[14:28:33] [Server thread/INFO]: Drakii27 joined the game
+[14:29:16] [Server thread/INFO]: [Not Secure] <HabuGandu> s
+[14:33:07] [Server thread/INFO]: [Not Secure] [Server] heril tne tara papa bolave che
+[14:33:19] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[14:33:19] [Server thread/INFO]: HabuGandu left the game
+[14:33:50] [Server thread/INFO]: HabuGandu[/172.17.0.1:37722] logged in with entity id 1132 at (153.58601751148817, 63.0, -3.990462028320878)
+[14:33:50] [Server thread/INFO]: HabuGandu joined the game
+[14:38:04] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[14:38:04] [Server thread/INFO]: HabuGandu left the game
+[14:56:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=174, y=64, z=40} jd{x=175, y=62, z=41}
+[14:57:52] [Server thread/INFO]: HabuGandu[/172.17.0.1:55154] logged in with entity id 4485 at (187.60859443182298, 78.0, -0.1288143166955085)
+[14:57:52] [Server thread/INFO]: HabuGandu joined the game
+[15:01:16] [Server thread/INFO]: [Not Secure] [Server] khava chalo
+[15:01:30] [Server thread/INFO]: [Not Secure] [Server] pachi ramjo nai to aa loko bolse
+[15:01:51] [Server thread/INFO]: [Not Secure] [Server] jiyu doggy come to eat
+[15:08:01] [Server thread/INFO]: Drakii27 lost connection: Disconnected
+[15:08:01] [Server thread/INFO]: Drakii27 left the game
+[15:09:40] [Server thread/WARN]: HabuGandu moved too quickly! -0.6855403062893402,-11.183315841704854,0.2894875899727656
+[15:15:51] [Server thread/INFO]: Villager cmk['Villager'/87, l='ServerLevel[world]', x=189.88, y=71.50, z=-5.67] died, message: 'Villager was slain by HabuGandu'
+[15:19:43] [Server thread/INFO]: Drakii27[/172.17.0.1:57196] logged in with entity id 7485 at (196.07008695024368, 62.9375, 44.69967871400658)
+[15:19:43] [Server thread/INFO]: Drakii27 joined the game
+[15:52:20] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[15:52:20] [Server thread/INFO]: HabuGandu left the game
+[16:03:10] [Server thread/INFO]: HabuGandu[/172.17.0.1:41212] logged in with entity id 14875 at (192.71711088061747, 63.0, 44.521468942282105)
+[16:03:10] [Server thread/INFO]: HabuGandu joined the game
+[16:07:54] [Server thread/WARN]: HabuGandu moved too quickly! 0.6849349646201972,-1.4318736602695168,-10.160681547174782
+[16:09:11] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[16:09:11] [Server thread/INFO]: HabuGandu left the game
+[16:09:11] [Server thread/WARN]: handleDisconnection() called twice
+[16:09:39] [Server thread/INFO]: HabuGandu[/172.17.0.1:58018] logged in with entity id 15766 at (182.43876917222704, 63.0, -9.162881089434787)
+[16:09:39] [Server thread/INFO]: HabuGandu joined the game
+[16:49:24] [Server thread/INFO]: Drakii27 lost connection: Disconnected
+[16:49:24] [Server thread/INFO]: Drakii27 left the game
+[16:53:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=169, y=65, z=20} jd{x=169, y=64, z=21}
+[17:04:08] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[17:04:08] [Server thread/INFO]: HabuGandu left the game
+[17:05:06] [Server thread/INFO]: Stopping the server
+[17:05:06] [Server thread/INFO]: Stopping server
+[17:05:06] [Server thread/INFO]: Saving players
+[17:05:06] [Server thread/INFO]: Saving worlds
+[17:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:05:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:05:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:05:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:05:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
